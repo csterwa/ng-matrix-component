@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/csterwa/ng-matrix-component.png?label=ready)](https://waffle.io/csterwa/ng-matrix-component)  
 # ng-matrix-component
 
 A matrix grid with dynamic domain and range.
